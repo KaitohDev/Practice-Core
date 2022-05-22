@@ -1,5 +1,5 @@
 <?php
-namespace HyperDevs
+namespace HyperDevs;
 
 use pocketmine\plugin\PluginBase;
 
