@@ -2,8 +2,7 @@
 
 namespace hyperdevs\staffmode\command;
 
-use hyperdevs\staffmode\Main;
-use hyperdevs\staffmode\command\StaffModeCommand;
+use hyperdevs\practice;
 
 class CommandManager {
     
