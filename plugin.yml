@@ -1,4 +1,5 @@
-name: parctice-core
-Aurhor: hyperdevs
-Version: 1.0.0
-Api: 4.0.0
+name: Practice-Core
+author: HyperDevs
+main:
+version: 1.0.0
+api: 4.0.0
